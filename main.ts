@@ -34,7 +34,7 @@ input.onButtonPressed(Button.B, function () {
 })
 function Init () {
     isStart = 0
-    Enemy_Planes_Speet = 2000
+    Enemy_Planes_Speet = 1000
     Our_Bullets_Speet = 500
     basic.showIcon(IconNames.Happy)
     basic.pause(3000)
